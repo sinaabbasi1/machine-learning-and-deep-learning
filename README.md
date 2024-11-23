@@ -31,7 +31,7 @@ Feel free to submit issues or pull requests if you find bugs or want to improve 
 
 ## Acknowledgements
 
-This work was completed as part of the Applied Data Science course taught at [Tehran Institute for Advanced Studies (TeIAS)](https://teias.institute/), Khatam University.
+This work was completed as part of the Machine Learning / Deep Learning course taught at [Tehran Institute for Advanced Studies (TeIAS)](https://teias.institute/), Khatam University.
 
 ## License
 
